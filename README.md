@@ -55,8 +55,8 @@ The presentation covers:
 ```
 deep-learning-cifar10-image-classifier
 │
-├── Deep_learning.ipynb
-├── presentation.pptx
-├── README.md
-└── LICENSE
+├── Deep_learning.ipynb       # Full training, fine-tuning, and evaluation logic
+├── presentation.pptx          # Case study presentation (MSIT)
+├── README.md                  # Project documentation
+└── LICENSE                    # License information
 ```
