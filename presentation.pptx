@@ -1,16 +1,1 @@
-## Project Presentation
 
-This project was presented at **MSIT (Master School Institute of Technology)**.
-
-You can view the full presentation here:
-
-🔗 [https://docs.google.com/presentation/d/1Z5pO_Joogvnp3tDzZQIA6937rhDPM79N/edit?usp=sharing&ouid=106128353566779902680&rtpof=true&sd=true]
-
-The presentation explains:
-
-- Model architecture (ResNet50 transfer learning)
-- Baseline performance analysis
-- Error diagnosis using confusion matrices
-- Data augmentation strategy
-- Training improvements
-- Final model performance (72.1% accuracy)
